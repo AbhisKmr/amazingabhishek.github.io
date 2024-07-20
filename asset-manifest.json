@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AbhisKmr/amazingabhishek.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/AbhisKmr/amazingabhishek.github.io/static/js/main.75bd526b.js",
+    "static/js/787.a5fa54f9.chunk.js": "/AbhisKmr/amazingabhishek.github.io/static/js/787.a5fa54f9.chunk.js",
+    "index.html": "/AbhisKmr/amazingabhishek.github.io/index.html",
+    "main.073c9b0a.css.map": "/AbhisKmr/amazingabhishek.github.io/static/css/main.073c9b0a.css.map",
+    "main.75bd526b.js.map": "/AbhisKmr/amazingabhishek.github.io/static/js/main.75bd526b.js.map",
+    "787.a5fa54f9.chunk.js.map": "/AbhisKmr/amazingabhishek.github.io/static/js/787.a5fa54f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.75bd526b.js"
+  ]
+}
